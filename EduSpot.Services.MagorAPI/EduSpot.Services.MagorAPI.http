@@ -1,0 +1,6 @@
+@EduSpot.Services.MagorAPI_HostAddress = http://localhost:5258
+
+GET {{EduSpot.Services.MagorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

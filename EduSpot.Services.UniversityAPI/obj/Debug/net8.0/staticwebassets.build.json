@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "0BeAbTnp73k665A/ThK24dkvJ3NMIU+E3nwkSldpq88=",
+  "Source": "EduSpot.Services.UniversityAPI",
+  "BasePath": "_content/EduSpot.Services.UniversityAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EduSpot.Services.UniversityAPI\\wwwroot",
+      "Source": "EduSpot.Services.UniversityAPI",
+      "ContentRoot": "F:\\MyProjrcts\\EduStop\\EduSpot.Services.UniversityAPI\\wwwroot\\",
+      "BasePath": "_content/EduSpot.Services.UniversityAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\MyProjrcts\\EduStop\\EduSpot.Services.UniversityAPI\\wwwroot\\UniversityImages\\1001.png",
+      "SourceId": "EduSpot.Services.UniversityAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\MyProjrcts\\EduStop\\EduSpot.Services.UniversityAPI\\wwwroot\\",
+      "BasePath": "_content/EduSpot.Services.UniversityAPI",
+      "RelativePath": "UniversityImages/1001.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UniversityImages\\1001.png"
+    },
+    {
+      "Identity": "F:\\MyProjrcts\\EduStop\\EduSpot.Services.UniversityAPI\\wwwroot\\UniversityImages\\1002.png",
+      "SourceId": "EduSpot.Services.UniversityAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\MyProjrcts\\EduStop\\EduSpot.Services.UniversityAPI\\wwwroot\\",
+      "BasePath": "_content/EduSpot.Services.UniversityAPI",
+      "RelativePath": "UniversityImages/1002.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UniversityImages\\1002.png"
+    },
+    {
+      "Identity": "F:\\MyProjrcts\\EduStop\\EduSpot.Services.UniversityAPI\\wwwroot\\UniversityImages\\4.jpg",
+      "SourceId": "EduSpot.Services.UniversityAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\MyProjrcts\\EduStop\\EduSpot.Services.UniversityAPI\\wwwroot\\",
+      "BasePath": "_content/EduSpot.Services.UniversityAPI",
+      "RelativePath": "UniversityImages/4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UniversityImages\\4.jpg"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\bin\Debug\net8.0\EduSpot.Web.DataAccess.deps.json
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\bin\Debug\net8.0\EduSpot.Web.DataAccess.dll
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\bin\Debug\net8.0\EduSpot.Web.DataAccess.pdb
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\bin\Debug\net8.0\EduSpot.Web.Models.dll
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\bin\Debug\net8.0\EduSpot.Web.Utility.dll
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\bin\Debug\net8.0\EduSpot.Web.Models.pdb
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\bin\Debug\net8.0\EduSpot.Web.Utility.pdb
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\obj\Debug\net8.0\EduSpot.Web.DataAccess.csproj.AssemblyReference.cache
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\obj\Debug\net8.0\EduSpot.Web.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\obj\Debug\net8.0\EduSpot.Web.DataAccess.AssemblyInfoInputs.cache
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\obj\Debug\net8.0\EduSpot.Web.DataAccess.AssemblyInfo.cs
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\obj\Debug\net8.0\EduSpot.Web.DataAccess.csproj.CoreCompileInputs.cache
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\obj\Debug\net8.0\EduSpot..56D259A7.Up2Date
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\obj\Debug\net8.0\EduSpot.Web.DataAccess.dll
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\obj\Debug\net8.0\refint\EduSpot.Web.DataAccess.dll
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\obj\Debug\net8.0\EduSpot.Web.DataAccess.pdb
+F:\MyProjrcts\EduStop\EduSpot.Web.DataAccess\obj\Debug\net8.0\ref\EduSpot.Web.DataAccess.dll
